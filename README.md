@@ -20,7 +20,7 @@ To run these files, ensure that the following libraries are installed:
 - Matplotlib
 - Random
 
-These come preinstalled when using services such as Google Colab (where these files were created).
+These come preinstalled when using services such as Google Colab (where these files were created).  All files run without any user input needed.
 
 Data also comes from this github repository: https://github.com/CSAS-Data-Challenge/2026. We link directly to these files in our notebooks.  If these files are no longer in existence, these files will not execute.
 
